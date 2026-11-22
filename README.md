@@ -43,3 +43,5 @@ Notewise AI Study Assistant is an AI-powered personal tutor built for every lear
    python app.py
    ```
    Open the local URL (`http://127.0.0.1:7860`) in your browser.
+   https://youtu.be/zguvBWBluYE
+   THIS IS DEMO VIDEO OF PROJECT
